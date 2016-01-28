@@ -1,0 +1,34 @@
+﻿生成启动时间为 2016/1/28 15:19:54。
+     1>项目“E:\Qt_Code\Qt Creator --\18-3获取网络接口信息\18-3获取网络接口信息.vcxproj”在节点 6 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Release\18-3myIP.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing mainwindow.h...
+         Uic'ing mainwindow.ui...
+         Rcc'ing mainwindow.qrc...
+     1>RCC : warning : No resources in 'E:\Qt_Code\Qt Creator --\18-3鑾峰彇缃戠粶鎺ュ彛淇℃伅\mainwindow.qrc'.
+         
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"E:\qt-4.8.6_VS2010_x64\include" /I.\GeneratedFiles\Release /I"E:\qt-4.8.6_VS2010_x64\include\QtCore" /I"E:\qt-4.8.6_VS2010_x64\include\QtGui" /I"E:\qt-4.8.6_VS2010_x64\include\QtNetwork" /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_mainwindow.cpp
+         qrc_mainwindow.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"E:\qt-4.8.6_VS2010_x64\include" /I.\GeneratedFiles\Release /I"E:\qt-4.8.6_VS2010_x64\include\QtCore" /I"E:\qt-4.8.6_VS2010_x64\include\QtGui" /I"E:\qt-4.8.6_VS2010_x64\include\QtNetwork" /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Release\moc_mainwindow.cpp main.cpp mainwindow.cpp
+         moc_mainwindow.cpp
+         main.cpp
+         mainwindow.cpp
+         Generating Code...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Qt_Code\Qt Creator --\x64\Release\\18-3myIP.exe" /NOLOGO /LIBPATH:"E:\qt-4.8.6_VS2010_x64\lib" qtmain.lib QtCore4.lib QtGui4.lib QtNetwork4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\18-3myIP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\Qt_Code\Qt Creator --\x64\Release\18-3myIP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Qt_Code\Qt Creator --\x64\Release\18-3myIP.lib" /MACHINE:X64 x64\Release\qrc_mainwindow.obj
+         x64\Release\moc_mainwindow.obj
+         x64\Release\main.obj
+         x64\Release\mainwindow.obj
+         18-3获取网络接口信息.vcxproj -> E:\Qt_Code\Qt Creator --\x64\Release\18-3myIP.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Qt_Code\Qt Creator --\x64\Release\\18-3myIP.exe;#1" /manifest "x64\Release\18-3myIP.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release\18-3myIP.unsuccessfulbuild”。
+         正在对“x64\Release\18-3myIP.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Qt_Code\Qt Creator --\18-3获取网络接口信息\18-3获取网络接口信息.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.06

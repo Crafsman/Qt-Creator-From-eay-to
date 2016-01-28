@@ -1,0 +1,26 @@
+﻿生成启动时间为 2016/1/27 16:04:12。
+     1>项目“E:\Qt_Code\Qt Creator --\18-6udpSender\18-6udpSender.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\udpSender.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Qt_Code\Qt Creator --\x64\Debug\\udpSender.exe" /NOLOGO /LIBPATH:"E:\qt-4.8.6_VS2010_x64\lib" qtmaind.lib QtCored4.lib QtGuid4.lib QtNetworkd4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\udpSender.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Qt_Code\Qt Creator --\x64\Debug\udpSender.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Qt_Code\Qt Creator --\x64\Debug\udpSender.lib" /MACHINE:X64 x64\Debug\moc_sender.obj
+         x64\Debug\qrc_sender.obj
+         x64\Debug\main.obj
+         x64\Debug\sender.obj
+     1>qtmaind.lib(qtmain_win.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“qtmaind.lib(qtmain_win.obj)”或在“E:\Qt_Code\Qt Creator --\x64\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         18-6udpSender.vcxproj -> E:\Qt_Code\Qt Creator --\x64\Debug\udpSender.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Qt_Code\Qt Creator --\x64\Debug\\udpSender.exe;#1" /manifest x64\Debug\udpSender.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\udpSender.unsuccessfulbuild”。
+         正在对“x64\Debug\udpSender.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Qt_Code\Qt Creator --\18-6udpSender\18-6udpSender.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.33

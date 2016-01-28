@@ -1,0 +1,34 @@
+﻿生成启动时间为 2016/1/28 15:19:54。
+     1>项目“E:\Qt_Code\Qt Creator --\网卡信息\网卡信息.vcxproj”在节点 8 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Release\网卡信息.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing adapterinfo.h...
+         Uic'ing adapterinfo.ui...
+         Rcc'ing adapterinfo.qrc...
+     1>RCC : warning : No resources in 'E:\Qt_Code\Qt Creator --\缃戝崱淇℃伅\adapterinfo.qrc'.
+         
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"E:\qt-4.8.6_VS2010_x64\include" /I.\GeneratedFiles\Release /I"E:\qt-4.8.6_VS2010_x64\include\QtCore" /I"E:\qt-4.8.6_VS2010_x64\include\QtGui" /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt adapterinfo.cpp GeneratedFiles\Release\moc_adapterinfo.cpp main.cpp
+         adapterinfo.cpp
+         moc_adapterinfo.cpp
+         main.cpp
+         Generating Code...
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"E:\qt-4.8.6_VS2010_x64\include" /I.\GeneratedFiles\Release /I"E:\qt-4.8.6_VS2010_x64\include\QtCore" /I"E:\qt-4.8.6_VS2010_x64\include\QtGui" /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_adapterinfo.cpp
+         qrc_adapterinfo.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Qt_Code\Qt Creator --\x64\Release\\网卡信息.exe" /NOLOGO /LIBPATH:"E:\qt-4.8.6_VS2010_x64\lib" qtmain.lib QtCore4.lib QtGui4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\网卡信息.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\Qt_Code\Qt Creator --\x64\Release\网卡信息.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Qt_Code\Qt Creator --\x64\Release\网卡信息.lib" /MACHINE:X64 x64\Release\adapterinfo.obj
+         x64\Release\qrc_adapterinfo.obj
+         x64\Release\moc_adapterinfo.obj
+         x64\Release\main.obj
+         网卡信息.vcxproj -> E:\Qt_Code\Qt Creator --\x64\Release\网卡信息.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Qt_Code\Qt Creator --\x64\Release\\网卡信息.exe;#1" /manifest "x64\Release\网卡信息.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release\网卡信息.unsuccessfulbuild”。
+         正在对“x64\Release\网卡信息.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Qt_Code\Qt Creator --\网卡信息\网卡信息.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.59

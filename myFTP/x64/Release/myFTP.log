@@ -1,0 +1,26 @@
+﻿生成启动时间为 2016/1/28 15:19:54。
+     1>项目“E:\Qt_Code\Qt Creator --\myFTP\myFTP.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Release\myFTP.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing mainwindow.h...
+         Uic'ing mainwindow.ui...
+         Rcc'ing mainwindow.qrc...
+     1>RCC : warning : No resources in 'E:\Qt_Code\Qt Creator --\myFTP\mainwindow.qrc'.
+         
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"E:\qt-4.8.6_VS2010_x64\include" /I.\GeneratedFiles\Release /I"E:\qt-4.8.6_VS2010_x64\include\QtCore" /I"E:\qt-4.8.6_VS2010_x64\include\QtGui" /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_mainwindow.cpp
+         qrc_mainwindow.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"E:\qt-4.8.6_VS2010_x64\include" /I.\GeneratedFiles\Release /I"E:\qt-4.8.6_VS2010_x64\include\QtCore" /I"E:\qt-4.8.6_VS2010_x64\include\QtGui" /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Release\moc_mainwindow.cpp main.cpp mainwindow.cpp
+         moc_mainwindow.cpp
+         main.cpp
+         mainwindow.cpp
+     1>mainwindow.cpp(82): error C2039: “textBrowser”: 不是“Ui::MainWindowClass”的成员
+                 .\GeneratedFiles\ui_mainwindow.h(76) : 参见“Ui::MainWindowClass”的声明
+     1>mainwindow.cpp(82): error C2227: “->setText”的左边必须指向类/结构/联合/泛型类型
+         Generating Code...
+     1>已完成生成项目“E:\Qt_Code\Qt Creator --\myFTP\myFTP.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.52

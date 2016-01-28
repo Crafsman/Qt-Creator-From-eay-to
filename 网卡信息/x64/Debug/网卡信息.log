@@ -1,0 +1,32 @@
+﻿生成启动时间为 2016/1/27 16:21:52。
+     1>项目“E:\Qt_Code\Qt Creator --\网卡信息\网卡信息.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\网卡信息.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing adapterinfo.h...
+         Uic'ing adapterinfo.ui...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"E:\qt-4.8.6_VS2010_x64\include" /I.\GeneratedFiles\Debug /I"E:\qt-4.8.6_VS2010_x64\include\QtCore" /I"E:\qt-4.8.6_VS2010_x64\include\QtGui" /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_adapterinfo.cpp adapterinfo.cpp main.cpp
+         moc_adapterinfo.cpp
+         adapterinfo.cpp
+         main.cpp
+         Generating Code...
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Qt_Code\Qt Creator --\x64\Debug\\网卡信息.exe" /NOLOGO /LIBPATH:"E:\qt-4.8.6_VS2010_x64\lib" qtmaind.lib QtCored4.lib QtGuid4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\网卡信息.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Qt_Code\Qt Creator --\x64\Debug\网卡信息.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Qt_Code\Qt Creator --\x64\Debug\网卡信息.lib" /MACHINE:X64 x64\Debug\adapterinfo.obj
+         x64\Debug\moc_adapterinfo.obj
+         x64\Debug\qrc_adapterinfo.obj
+         x64\Debug\main.obj
+         LINK : 没有找到 E:\Qt_Code\Qt Creator --\x64\Debug\\网卡信息.exe 或上一个增量链接没有生成它；正在执行完全链接
+     1>qtmaind.lib(qtmain_win.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“qtmaind.lib(qtmain_win.obj)”或在“E:\Qt_Code\Qt Creator --\x64\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         网卡信息.vcxproj -> E:\Qt_Code\Qt Creator --\x64\Debug\网卡信息.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Qt_Code\Qt Creator --\x64\Debug\\网卡信息.exe;#1" /manifest "x64\Debug\网卡信息.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\网卡信息.unsuccessfulbuild”。
+         正在对“x64\Debug\网卡信息.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Qt_Code\Qt Creator --\网卡信息\网卡信息.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.63

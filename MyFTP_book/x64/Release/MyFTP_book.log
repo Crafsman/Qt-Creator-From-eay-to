@@ -1,0 +1,45 @@
+﻿生成启动时间为 2016/1/28 15:19:54。
+     1>项目“E:\Qt_Code\Qt Creator --\MyFTP_book\MyFTP_book.vcxproj”在节点 7 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Release\MyFTP_18_4.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Rcc'ing myftp_book.qrc...
+     1>RCC : warning : No resources in 'E:\Qt_Code\Qt Creator --\MyFTP_book\myftp_book.qrc'.
+         
+         Uic'ing mainwindow.ui...
+         Moc'ing mainwindow.h...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"E:\qt-4.8.6_VS2010_x64\include" /I.\GeneratedFiles\Release /I"E:\qt-4.8.6_VS2010_x64\include\QtCore" /I"E:\qt-4.8.6_VS2010_x64\include\QtGui" /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_myftp_book.cpp
+         qrc_myftp_book.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /I"E:\qt-4.8.6_VS2010_x64\include" /I.\GeneratedFiles\Release /I"E:\qt-4.8.6_VS2010_x64\include\QtCore" /I"E:\qt-4.8.6_VS2010_x64\include\QtGui" /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Release\moc_mainwindow.cpp main.cpp mainwindow.cpp
+         moc_mainwindow.cpp
+     1>e:\qt_code\qt creator --\myftp_book\generatedfiles\release\../../mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         main.cpp
+     1>e:\qt_code\qt creator --\myftp_book\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         mainwindow.cpp
+     1>mainwindow.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\qt_code\qt creator --\myftp_book\mainwindow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>mainwindow.cpp(30): error C2001: 常量中有换行符
+     1>mainwindow.cpp(31): error C2143: 语法错误 : 缺少“)”(在“break”的前面)
+     1>mainwindow.cpp(33): error C2001: 常量中有换行符
+     1>mainwindow.cpp(34): error C2143: 语法错误 : 缺少“)”(在“break”的前面)
+     1>mainwindow.cpp(34): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>mainwindow.cpp(36): error C2001: 常量中有换行符
+     1>mainwindow.cpp(37): error C2143: 语法错误 : 缺少“)”(在“break”的前面)
+     1>mainwindow.cpp(37): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>mainwindow.cpp(39): error C2001: 常量中有换行符
+     1>mainwindow.cpp(40): error C2143: 语法错误 : 缺少“)”(在“}”的前面)
+     1>mainwindow.cpp(40): error C2143: 语法错误 : 缺少“)”(在“}”的前面)
+     1>mainwindow.cpp(40): error C2143: 语法错误 : 缺少“)”(在“}”的前面)
+     1>mainwindow.cpp(40): error C2143: 语法错误 : 缺少“;”(在“)”的前面)
+     1>mainwindow.cpp(40): error C2143: 语法错误 : 缺少“;”(在“)”的前面)
+     1>mainwindow.cpp(67): error C2001: 常量中有换行符
+     1>mainwindow.cpp(68): error C2143: 语法错误 : 缺少“)”(在“}”的前面)
+     1>mainwindow.cpp(68): error C2143: 语法错误 : 缺少“)”(在“}”的前面)
+     1>mainwindow.cpp(68): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+         Generating Code...
+     1>已完成生成项目“E:\Qt_Code\Qt Creator --\MyFTP_book\MyFTP_book.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.48
